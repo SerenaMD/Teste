@@ -4,3 +4,7 @@ Aqui vai um :`Exemplo de codigo`
 
 * exemplo de lista
 * exemplo de lista
+
+**dois * deixa em negrito**
+
+>feliz natal!!
